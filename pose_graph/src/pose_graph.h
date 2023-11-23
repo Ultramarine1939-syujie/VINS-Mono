@@ -3,6 +3,8 @@
 #include <thread>
 #include <mutex>
 #include <opencv2/opencv.hpp>
+#include <opencv2/highgui.hpp>
+#include <opencv2/cvconfig.h>
 #include <eigen3/Eigen/Dense>
 #include <string>
 #include <ceres/ceres.h>
